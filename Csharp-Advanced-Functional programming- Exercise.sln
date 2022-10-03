@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Custom Min Function", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Find Evens or Odds", "04. Find Evens or Odds\04. Find Evens or Odds.csproj", "{F65D3B85-4DE9-42D7-B850-6FD38F50A508}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Applied Arithmetics", "05. Applied Arithmetics\05. Applied Arithmetics.csproj", "{0BB0ECF5-C24E-4455-8C8D-6561FF8E6385}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F65D3B85-4DE9-42D7-B850-6FD38F50A508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F65D3B85-4DE9-42D7-B850-6FD38F50A508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F65D3B85-4DE9-42D7-B850-6FD38F50A508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB0ECF5-C24E-4455-8C8D-6561FF8E6385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB0ECF5-C24E-4455-8C8D-6561FF8E6385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB0ECF5-C24E-4455-8C8D-6561FF8E6385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB0ECF5-C24E-4455-8C8D-6561FF8E6385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
